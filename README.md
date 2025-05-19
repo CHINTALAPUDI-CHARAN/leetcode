@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -62,9 +63,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0075-sort-colors) |
 | [0861-flipping-an-image](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
