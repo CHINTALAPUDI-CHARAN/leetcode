@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [3321-type-of-triangle](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0342-power-of-four) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [3321-type-of-triangle](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0861-flipping-an-image) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
