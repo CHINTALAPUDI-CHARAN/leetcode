@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0566-reshape-the-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0861-flipping-an-image) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/3321-type-of-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
