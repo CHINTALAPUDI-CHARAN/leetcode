@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0367-valid-perfect-square) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0342-power-of-four) |
