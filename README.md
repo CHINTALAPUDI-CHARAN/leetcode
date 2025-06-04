@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0861-flipping-an-image) |
