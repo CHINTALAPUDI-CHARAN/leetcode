@@ -103,12 +103,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0242-valid-anagram) |
 | [3321-type-of-triangle](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
