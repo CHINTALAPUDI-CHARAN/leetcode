@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0217-contains-duplicate) |
 | [0566-reshape-the-matrix](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0777-toeplitz-matrix) |
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0217-contains-duplicate) |
 | [3321-type-of-triangle](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/CHINTALAPUDI-CHARAN/leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
